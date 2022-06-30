@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou <a href="https://www.linkedin.com/in/ricardo-ferreira-075492232/"><i>Ricardo Ferreira</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/"><i>Unicesumar</i></a> e também estudo Desenvolvimento Web em alguns cursos.
+  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/" target="_blank"><i>Unicesumar</i></a> e também estudo Desenvolvimento Web em alguns cursos.
 
 
 
